@@ -1,1 +1,2 @@
-# SQL-MASTERCLASS
+# SQL-Masterclass
+Learn SQL with Notes
